@@ -14,7 +14,7 @@ There are probably better ways to do this, but hey. It's my first time.
 Change the following line in `views.py`:
 
 ```py
-	  s.login('YOUR_SNAPCHAT_USERNAME', 'YOUR_SNAPCHAT_PASSWORD')
+s.login('YOUR_SNAPCHAT_USERNAME', 'YOUR_SNAPCHAT_PASSWORD')
 ```
 
 And then just run the server to check it out in your browser:
