@@ -11,6 +11,15 @@ There are probably better ways to do this, but hey. It's my first time.
 
 #Running it
 
+Install the following (might need to `sudo`):
+
+```
+pip install Django
+pip install requests
+easy_install pycrypto
+
+```
+
 Change the following line in `views.py`:
 
 ```py
