@@ -17,7 +17,6 @@ Install the following (might need to `sudo`):
 pip install Django
 pip install requests
 easy_install pycrypto
-
 ```
 
 Change the following line in `views.py`:
